@@ -64,3 +64,25 @@ Typical use cases:
 
 📩 Contact: hugoferro@gmail.com
 <!-- 🌐 Portfolio: https://hasff.github.io/site/ -->
+
+## Further Learning
+
+This repository demonstrates a real-world style invoice generator built with ReportLab.
+It is intentionally kept simple and usable, but it is based on techniques I developed while working on client PDF automation projects.
+
+If you want a complete, structured walkthrough of how systems like this are designed and extended, I cover it in my full course:
+
+**Python PDF Generation: From Beginner to Winner (ReportLab)**
+https://www.udemy.com/course/python-reportlab-from-beginner-to-winner/?referralCode=3B927E883D2E868CF221
+
+In the course you will learn:
+
+* layout and pagination strategies
+* working with TrueType fonts and branding
+* images and watermarks
+* PDF forms (checkboxes, radio buttons, dropdowns, text fields)
+* document protection and permissions
+* exporting PDFs from a Django application
+* how to structure readable and maintainable production code
+
+The course is optional — the repository is fully usable on its own — but it provides deeper understanding of the architectural decisions behind this example.
