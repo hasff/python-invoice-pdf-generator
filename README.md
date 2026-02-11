@@ -72,8 +72,8 @@ It is intentionally kept simple and usable, but it is based on techniques I deve
 
 If you want a complete, structured walkthrough of how systems like this are designed and extended, I cover it in my full course:
 
-**Python PDF Generation: From Beginner to Winner (ReportLab)**
-https://www.udemy.com/course/python-reportlab-from-beginner-to-winner/?referralCode=3B927E883D2E868CF221
+[**Python PDF Generation: From Beginner to Winner (ReportLab)**](https://www.udemy.com/course/python-reportlab-from-beginner-to-winner/?referralCode=3B927E883D2E868CF221)
+
 
 In the course you will learn:
 
