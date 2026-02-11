@@ -29,8 +29,8 @@ This repository shows a clean, maintainable way to generate invoices **directly 
 ## Quick Start
 
 ```bash
-git clone https://github.com/sensenet-labs/invoices
-cd invoices
+git clone https://github.com/hasff/python-invoice-pdf-generator.git
+cd python-invoice-pdf-generator
 python -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
 pip install -r requirements.txt
@@ -62,4 +62,4 @@ Typical use cases:
 * internal dashboards
 
 📩 Contact: hugoferro@gmail.com
-🌐 Portfolio: https://hasff.github.io/site/
+<!-- 🌐 Portfolio: https://hasff.github.io/site/ -->
