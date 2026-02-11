@@ -10,7 +10,8 @@ This project is a **production-style example** of how to create invoices automat
 * freelancers
 * internal business tools
 
-![invoice preview](docs/invoice_preview.png)
+![invoice preview](docs/preview 1.jpg)
+![invoice preview](docs/preview 2.jpg)
 
 ## Why this exists
 
@@ -40,7 +41,7 @@ python generate_invoice.py
 The script will create:
 
 ```
-output/invoice_001.pdf
+output/invoice_sample.pdf
 ```
 
 ## Need custom PDF generation?

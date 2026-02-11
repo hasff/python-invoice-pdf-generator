@@ -12,6 +12,7 @@ from reportlab.lib.styles import ParagraphStyle
 from reportlab.platypus import CondPageBreak
 
 from datetime import date, timedelta
+from pathlib import Path
 
 import random
 
@@ -104,8 +105,13 @@ def get_items():
 # ------------------------
 
 def build_invoice():
+    OUTPUT_DIR = Path("output")
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+
+    file_path = OUTPUT_DIR / OUTPUT_FILE
+
     doc = SimpleDocTemplate(
-        OUTPUT_FILE,
+        str(file_path),
         pagesize=A4,
         rightMargin=25*mm,
         leftMargin=25*mm,
