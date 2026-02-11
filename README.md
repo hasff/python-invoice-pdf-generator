@@ -10,8 +10,8 @@ This project is a **production-style example** of how to create invoices automat
 * freelancers
 * internal business tools
 
-![invoice preview](docs/preview 1.jpg)
-![invoice preview](docs/preview 2.jpg)
+![invoice preview](docs/preview1.jpg)
+<!-- ![invoice preview](docs/preview2.jpg) -->
 
 ## Why this exists
 
