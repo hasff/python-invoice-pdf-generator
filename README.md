@@ -62,7 +62,8 @@ Typical use cases:
 * ERP integrations
 * internal dashboards
 
-📩 Contact: hugoferro.business(at)gmail.com
+📩 Contact: mailto:hugoferro.business@gmail.com
+
 <!-- 🌐 Portfolio: https://hasff.github.io/site/ -->
 
 ## Further Learning
