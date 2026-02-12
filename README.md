@@ -63,8 +63,7 @@ Typical use cases:
 * internal dashboards
 
 📩 Contact: hugoferro.business(at)gmail.com
-
-<!-- 🌐 Portfolio: https://hasff.github.io/site/invoices -->
+🌐 Portfolio: https://hasff.github.io/site/invoices
 
 ## Further Learning
 
