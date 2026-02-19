@@ -16,7 +16,7 @@ from pathlib import Path
 
 import random
 
-OUTPUT_FILE = "invoice_sample.pdf"
+OUTPUT_FILE = "invoice_sample1.pdf"
 
 
 # ------------------------
