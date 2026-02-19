@@ -64,7 +64,7 @@ Typical use cases:
 
 📩 Contact: hugoferro.business(at)gmail.com
 
-🌐 Portfolio: https://hasff.github.io/site/invoices
+🌐 For full courses and professional templates, visit: https://hasff.github.io/site/
 
 ## Further Learning
 
