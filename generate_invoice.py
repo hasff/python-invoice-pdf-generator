@@ -37,7 +37,7 @@ def header_footer(canvas, doc):
 
     # footer
     canvas.setFont("Helvetica", 8)
-    canvas.drawString(25*mm, 12*mm, "Atlantic Services Lda - billing@atlanticservices.pt")
+    canvas.drawString(25*mm, 12*mm, "Atlantic Services Lda - email[at]example.com")
     
     canvas.restoreState()
 
@@ -152,7 +152,7 @@ def build_invoice():
     story.append(Paragraph("<b>Atlantic Services Lda</b>", bold))
     story.append(Paragraph("Rua Exemplo 123", normal))
     story.append(Paragraph("1200-001 Lisboa, Portugal", normal))
-    story.append(Paragraph("Email: billing@atlanticservices.pt", normal))
+    story.append(Paragraph("Email: email[at]example.com", normal))
     story.append(Paragraph("NIF: 509999999", normal))
 
     story.append(Spacer(1, 10))
