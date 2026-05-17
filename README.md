@@ -66,6 +66,8 @@ Typical use cases:
 
 🌐 For full courses and professional templates, visit: https://hasff.github.io/site/
 
+🔗 LinkedIn: https://www.linkedin.com/in/hugo-ferro-1434b414/
+
 ## Further Learning
 
 This repository demonstrates a real-world style invoice generator built with ReportLab.
